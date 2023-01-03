@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## Acerca de mi
 Hola, mi nombre es Franco Nicoletti. Soy desarrollador Full Stack de Buenos Aires, Argentina, con enfoque flexible y centrado en crear aplicaciones escalables y optimizadas con diversas tecnologías. Disposición al aprendizaje y utilización de nuevas habilidades, tecnologías y conocimiento.
 
 ## ¿Que brindó al equipo?
