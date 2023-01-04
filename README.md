@@ -12,32 +12,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Acerca de mi
-Hola, mi nombre es Franco Nicoletti. Soy desarrollador Full Stack de Buenos Aires, Argentina, con enfoque flexible y centrado en crear aplicaciones escalables y optimizadas con diversas tecnologías. Disposición al aprendizaje y utilización de nuevas habilidades, tecnologías y conocimiento.
+## About me
+Hi, my name is Franco. I'm a Full Stack developer from Buenos Aires, Argentina, with a flexible approach focused on creating scalable and optimized applications with diverse technologies. Willingness to learn and use new skills, technologies, and knowledge.
 
-## ¿Que brindó al equipo?
-Tengo una personalidad constructiva y abierta al diálogo, respeto y trabajo en equipo para una meta en común. Estoy dispuesto a consensuar, aprender y enseñar. Interés en aprender nuevas tecnologías y métodos dentro del mundo de la programación y resolución de problemas.
+## What do I bring to the team?
+I have a constructive personality and I'm open to dialogue, respect, and teamwork under a common objective. I am willing to discuss, learn and teach. Interest in learning new technologies and methods within the world of programming and problem-solving.
 
-## Experiencia previa
- Mi experiencia previa consiste mayoritariamente en el ámbito académico:
-#### Formación académica:
-* Ingeniería Civil - Universidad de Buenos Aires, Buenos Aires, Argentina <br />
-*Febrero 2018 - presente* <br />
-Aprendí a desarrollar mi pensamiento lógico, matemática y resolución de problemas.
+## Previous experience
+ My previous experience consists mainly in the academic field
+#### Education:
+* Civil Engineering - University of Buenos Aires, Buenos Aires, Argentina <br />
+*February 2018 - present* <br />
+Helped me develop logical thinking, problem-solving, and mathematics.
 
-* Desarrollador Web Full Stack - Henry Bootcamp, Buenos Aires, Argentina <br />
-*Agosto 2022 - Enero 2023* <br />
-Bootcamp donde desarrolle experiencia en diversas tecnologías como JavaScript, TypeScript, React, Redux, NodeJS, ExpressJS, SQL, PostgreSQL y MongoDB. Además de aprender a trabajar en equipo y en un ambiente social con compañeros de diferentes países y culturas logrando mejorar mis aptitudes comunicadoras.
+* Full Stack Web Developer - Henry Bootcamp, Buenos Aires, Argentina <br />
+*August 2022 - January 2023* <br />
+Bootcamp where I developed experience in various technologies such as JavaScript, TypeScript, React, Redux, NodeJS, ExpressJS, SQL, PostgreSQL, and MongoDB. In addition to learning teamwork and how to function in a social environment with colleagues from different countries and cultures, improving my communication.
 
-* Aprendizaje del lenguaje Python con diversos cursos a través de los años con enfoque en lógica y análisis de datos, usando herramientas como Pandas, Matplotlib y Plotly.
+* Learning Python language with various courses over the years with a focus on logic and data analysis, using tools such as Pandas, Matplotlib and Plotly.
 
-#### Experiencia en el ámbito laboral:
-* Materiales Nicoletti e Hijos S.R.L - Buenos Aires, Argentina
-*Enero 2012 - Enero 2018*
-Aplicación de conocimientos de Python para automatizar procesos de datos durante años. Las herramientas que principalmente utilicé fueron Pandas para manipulación de datos, y Matplotlib y Plotly para visualización de datos.
+#### Work experience:
+* Blas Nicoletti e Hijos S.R.L - Buenos Aires, Argentina
+*January 2012 - January 2018*
+Application of Python knowledge to automate data and processes for many years. The tools I mainly used were Pandas for data manipulation, and Matplotlib and Plotly for data visualization.
 
 
-##### Para saber más de mi podes comunicarte mediante:
+##### To know more about me you can communicate through:
 Email : franconicoletti.14@gmail.com <br />
 LinkedIn: https://www.linkedin.com/in/franconicoletti/ <br />
-Telefono: +54-(11)-58444386 <br />
+Phone: +54-(11)-58444386 <br />
