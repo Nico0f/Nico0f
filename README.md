@@ -36,8 +36,24 @@ Bootcamp where I developed experience in various technologies such as JavaScript
 *January 2012 - January 2018*
 Application of Python knowledge to automate data and processes for many years. The tools I mainly used were Pandas for data manipulation, and Matplotlib and Plotly for data visualization.
 
+## Projects
+
+### <ins>Wine Supply</ins> (e-commerce) [Deploy link](https://winesupply.vercel.app/)
+
+![Wine Supply](https://user-images.githubusercontent.com/101240108/215006558-5f3092bd-af7a-419f-b2c9-bfd491ac0a3a.png)
+
+Functional e-commerce, fully responsive, MERN stack with Firebase and in-house authentication (JWT), media management by Cloudinary, and payment services, managed through SCRUM methodologies and a simulation of a working environment with product owners and weekly sprints. Database managed through MongoDB Atlas services, gaining knowledge about cloud services for Back-end applications.
+
+### <ins>Interplanetary</ins> (AWS serverless Back-end) [Deploy link](https://interplanetary.vercel.app/)
+
+![interplanetary](https://user-images.githubusercontent.com/101240108/215007027-4832de61-8241-426e-927d-68fda062c302.png)
+
+Simple project to test the serverless back-end implementation of AWS (Amazon Web Services). It consists of a PostgreSQL relational database created with AWS RDS, managed through a Lambda function, made in Python 3.8, that provides the endpoint and works on the queries. 
+
+## Contact
 
 ##### To know more about me you can communicate through:
 Email : franconicoletti.14@gmail.com <br />
-LinkedIn: https://www.linkedin.com/in/franconicoletti/ <br />
+LinkedIn: [linkedin.com/in/franconicoletti/](https://www.linkedin.com/in/franconicoletti/) <br />
+Portfolio: [franconicoletti.com](https://www.franconicoletti.com/) <br />
 Phone: +54-(11)-58444386 <br />
