@@ -22,8 +22,11 @@ I have a constructive personality and I'm open to dialogue, respect, and teamwor
  My previous experience consists mainly in the academic field
 #### Education:
 * Civil Engineering - University of Buenos Aires, Buenos Aires, Argentina <br />
-*February 2018 - present* <br />
+*February 2018 - January 2023* <br />
 Helped me develop logical thinking, problem-solving, and mathematics.
+* Computer Science - University of Buenos Aires, Buenos Aires, Argentina <br />
+*January 2023 - present* <br />
+Knowledge of computer theory, algorithms and programming languages.
 
 * Full Stack Web Developer - Henry Bootcamp, Buenos Aires, Argentina <br />
 *August 2022 - January 2023* <br />
@@ -34,6 +37,9 @@ Bootcamp where I developed experience in various technologies such as JavaScript
 #### Work experience:
 * Blas Nicoletti e Hijos S.R.L - Buenos Aires, Argentina
 *January 2012 - January 2018*
+Application of Python knowledge to automate data and processes for many years. The tools I mainly used were Pandas for data manipulation, and Matplotlib and Plotly for data visualization.
+* StoryDots - Buenos Aires, Argentina
+*June 2023 - present*
 Application of Python knowledge to automate data and processes for many years. The tools I mainly used were Pandas for data manipulation, and Matplotlib and Plotly for data visualization.
 
 ## Projects
