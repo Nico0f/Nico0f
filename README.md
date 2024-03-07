@@ -21,26 +21,34 @@ I have a constructive personality and I'm open to dialogue, respect, and teamwor
 ## Previous experience
  My previous experience consists mainly in the academic field
 #### Education:
-* Civil Engineering - University of Buenos Aires, Buenos Aires, Argentina <br />
+- Civil Engineering - University of Buenos Aires, Buenos Aires, Argentina <br />
 *February 2018 - January 2023* <br />
 Helped me develop logical thinking, problem-solving, and mathematics.
-* Computer Science - University of Buenos Aires, Buenos Aires, Argentina <br />
+
+- Computer Science - University of Buenos Aires, Buenos Aires, Argentina <br />
 *January 2023 - present* <br />
 Knowledge of computer theory, algorithms and programming languages.
 
-* Full Stack Web Developer - Henry Bootcamp, Buenos Aires, Argentina <br />
+- Full Stack Web Developer - Henry Bootcamp, Buenos Aires, Argentina <br />
 *August 2022 - January 2023* <br />
 Bootcamp where I developed experience in various technologies such as JavaScript, TypeScript, React, Redux, NodeJS, ExpressJS, SQL, PostgreSQL, and MongoDB. In addition to learning teamwork and how to function in a social environment with colleagues from different countries and cultures, improving my communication.
 
-* Learning Python language with various courses over the years with a focus on logic and data analysis, using tools such as Pandas, Matplotlib and Plotly.
+* Learning Golang language with various courses over the years with a focus on back-end services and scripting.
 
 #### Work experience:
-* Blas Nicoletti e Hijos S.R.L - Buenos Aires, Argentina
-*January 2012 - January 2018*
-Application of Python knowledge to automate data and processes for many years. The tools I mainly used were Pandas for data manipulation, and Matplotlib and Plotly for data visualization.
-* StoryDots - Buenos Aires, Argentina
-*June 2023 - present*
-Application of Python knowledge to automate data and processes for many years. The tools I mainly used were Pandas for data manipulation, and Matplotlib and Plotly for data visualization.
+- Blas Nicoletti e Hijos S.R.L - Buenos Aires, Argentina <br />
+*January 2012 - January 2018* <br />
+  - Application of Python knowledge to automate data and processes for many years.
+  - The tools I mainly used were Pandas for data manipulation, Matplotlib and Plotly for data visualization.
+  - In charge of tracking and automating sales for maximizing inventory management and profits. 
+
+
+- StoryDots - Buenos Aires, Argentina <br />
+*June 2023 - present* <br />
+  -  Front-end applications and plugins developed mainly in React, styles with CSS, Styled Components, Polaris library from Shopify and Nimbus from TiendaNube. 
+  -  Back-end primarily from AWS lambdas, database from AWS Aurora MySQL. Some services made with ExpressJS deployed on AWS EC2.
+  -  Several work on integrations and plugins from e-commerce solutions like Tienda Nube, Shopify and Vtex.
+
 
 ## Projects
 
