@@ -19,7 +19,7 @@ Flexible approach focused on creating scalable and optimized applications with d
 ## What do I bring to the team?
 I have a constructive personality and I'm open to dialogue, respect, and teamwork under a common objective. I am willing to discuss, learn and teach. Interest in learning new technologies and methods within the world of programming and problem-solving.
 
-#### Work experience:
+## Work experience:
 - Blas Nicoletti e Hijos S.R.L - Buenos Aires, Argentina <br />
 Sales Operations Analyst <br />
 *January 2012 - January 2018* <br />
@@ -30,10 +30,7 @@ Leveraged Python expertise to design and implement data automation solutions, en
 *June 2023 - present* <br />
 Developed and implemented front-end applications and plugins using React, leveraging various styling solutions including CSS, Styled Components, and e-commerce-specific libraries like Shopify's Polaris and TiendaNube's Nimbus. Engineered serverless back-end solutions utilizing AWS Lambda functions and Aurora MySQL databases, while also creating ExpressJS services deployed on AWS EC2. Specialized in crafting integrations and plugins for major e-commerce platforms such as Tienda Nube, Shopify, and Vtex, enhancing functionality and user experience across multiple online retail environments.
 
-
-## Previous experience
- My previous experience consists mainly in the academic field
-#### Education:
+## Education:
 - Civil Engineering - University of Buenos Aires, Buenos Aires, Argentina <br />
 *February 2018 - January 2023* <br />
 Learned logical thinking, problem-solving, and mathematics.
