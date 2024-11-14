@@ -64,5 +64,5 @@ Simple project to test the serverless back-end implementation of AWS (Amazon Web
 Email : franconicoletti.14@gmail.com <br />
 LinkedIn: [linkedin.com/in/franconicoletti/](https://www.linkedin.com/in/franconicoletti/) <br />
 Portfolio: [franconicoletti.com](https://www.franconicoletti.com/) <br />
-Gitlab (not used): gitlab.com/Nico4 <br />
+Gitlab (not used): [gitlab.com/Nico4](https://gitlab.com/Nico4) <br />
 Phone: +54-(11)-58444386 <br />
